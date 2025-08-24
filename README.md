@@ -304,7 +304,3 @@ Your project is successful when:
 - ✅ You can capture and view the kernel debug messages
 
 **Estimated total time**: 2-4 hours (including compilation time)
-
----
-
-**🎉 Happy Kernel Hacking!** 🚀
